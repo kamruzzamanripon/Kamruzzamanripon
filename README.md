@@ -8,6 +8,7 @@ I'm a FrontEnd and BackEnd developer. I am always eager to learn new things. but
 
 - 💼 Zend Certified Engineer at [zend-zce](https://www.zend-zce.com/en/yellow-pages/ZEND032642?fbclid=IwAR2g1XN6D4ixsUhIMsvujO5neegvEpKU2Lv4lLKzaCE1JLYHhL4Z7MMWzfw)
 - 💼 JavaScript Algorithms and Data Structures [freecodecamp](https://www.freecodecamp.org/certification/fcc432f6d27-bd65-477e-9a7b-48d1e3bdfb2b/javascript-algorithms-and-data-structures)
+- 💼 Back End Development and APIs [freecodecamp](https://www.freecodecamp.org/certification/fcc432f6d27-bd65-477e-9a7b-48d1e3bdfb2b/back-end-development-and-apis)
 - ❤️ I love coding
 
 <br />
