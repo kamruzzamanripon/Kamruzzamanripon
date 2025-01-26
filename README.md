@@ -1,6 +1,5 @@
 <p align="center"><a href="https://github.com/kamruzzamanripon"><img width="80%" src="./assets/user-name-header.png" /></a></p>
 
-<br />
 
 An accomplished Full Stack Developer with over 7 years of experience specializing in PHP and JavaScript. A Zend-certified PHP developer, I excel in building and maintaining scalable web applications using modern frameworks like Laravel, React.js, and Vue.js. With a strong background in Agile and Scrum methodologies, I bring expertise in requirements analysis, project documentation, and delivering solutions that align with business goals.
 
